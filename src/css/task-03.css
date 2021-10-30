@@ -1,0 +1,13 @@
+.gallery {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  padding: 0;
+}
+
+.gallery-photo {
+  border-radius: 5px;
+  height: 150px;
+}
